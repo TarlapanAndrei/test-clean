@@ -3,7 +3,7 @@ import { HomePageHeaderAndImage } from './home-page.styled';
 
 const HomePage = () =>(
   <HomePageHeaderAndImage>
-    Mama mia
+    Mama MIA
   </HomePageHeaderAndImage>
 )
 export default HomePage
